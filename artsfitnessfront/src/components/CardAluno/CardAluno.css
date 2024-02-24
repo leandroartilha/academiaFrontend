@@ -1,0 +1,9 @@
+.cardAluno{
+    margin-top: 2rem;
+    margin-bottom: 0.7rem;
+}
+
+.cardAluno{
+    cursor: pointer;
+    border-color: blue;
+}

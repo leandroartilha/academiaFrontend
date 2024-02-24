@@ -1,0 +1,32 @@
+ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  }
+
+  li {
+    display: inline-block;
+    margin-right: 10px; /* Adicione margem direita para espaçamento entre os itens */
+  }
+
+  .botaoFazerMatricula{
+    margin-left: 5rem;
+  }
+
+  .circle{
+    text-align: center;
+    margin-top: 15rem;
+  }
+
+  .pesquisador{
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 2rem;
+    width: 50%; /* Defina a largura desejada em porcentagem */
+    max-width: 400px; /* Defina a largura máxima em pixels */
+    min-width: 200px; /* Defina a largura mínima em pixels */
+  }
